@@ -1,0 +1,6 @@
+framework module Pods_GoogleFirebaseTodoListTests {
+  umbrella header "Pods-GoogleFirebaseTodoListTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
